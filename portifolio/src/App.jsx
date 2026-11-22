@@ -4,7 +4,7 @@ import Sobre from "./components/sobre";
 import Habilidades from "./components/habilidades";
 import Projetos from "./components/projetos";
 import Contato from "./components/contato";
-import "./App.css";
+import "./styles/styles.css";
 
 export default function App() {
   return (
