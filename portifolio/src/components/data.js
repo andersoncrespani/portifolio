@@ -21,8 +21,7 @@ export const linguagens = [
   { nome: "SQL", icone: "postgres" },
   { nome: "HTML", icone: "html" },
   { nome: "CSS", icone: "css" },
-  { nome: "Docker", icone: "docker" },
-  { nome: "nodejs", icone: "nodejs" }
+  
 ];
 
 export const ferramentas = [
@@ -32,6 +31,8 @@ export const ferramentas = [
   { nome: "GitHub", icone: "github" },
   { nome: "VS Code", icone: "vscode" },
   { nome: "IntelliJ", icone: "idea" },
+  { nome: "Docker", icone: "docker" },
+  { nome: "nodejs", icone: "nodejs" }
 ];
 
 export const projetos = [
