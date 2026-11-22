@@ -2,7 +2,7 @@ export const perfil = {
   nome: "Anderson Crespani",
   funcao: "Desenvolvedor Full Stack",
   frase: "contruindo soluções.",
-  email: "andersoncrespani2007@gmail.com",
+  email: "andersonpessoal2007@gmail.com",
   github: "https://github.com/andersoncrespani",
   linkedin:
     "https://www.linkedin.com/in/anderson-crespani-da-silva/",
