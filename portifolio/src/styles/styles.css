@@ -277,7 +277,7 @@ ul {
   font-size: 0.8rem;
   padding: 6px 12px;
   background: none;
-  border: 1px solid var(--linha);
+  border: 1px solid var(--ciano);
   border-radius: 4px;
   color: var(--suave);
   cursor: pointer;
@@ -295,7 +295,7 @@ ul {
 
 .link-borda {
   padding: 10px 20px;
-  border: 1px solid var(--linha);
+  border: 1px solid var(--ciano);
   border-radius: 4px;
   transition: color 0.15s, border-color 0.15s;
 }
