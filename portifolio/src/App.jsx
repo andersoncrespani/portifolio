@@ -20,19 +20,3 @@ export default function App() {
     </>
   );
 }
-
-
-export default function App() {
-  return (
-    <>
-      <Header />
-      <main>
-        <Hero />
-        <Sobre />
-        <Habilidades />
-        <Projetos />
-        <Contato />
-      </main>
-    </>
-  );
-}
