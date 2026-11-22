@@ -27,7 +27,7 @@ export default function Hero() {
           <span className="foto-vazia">AC</span>
         ) : (
           <img
-            src="../../public/fotominha.png"
+            src="/fotominha.png"
             alt={perfil.nome}
             onError={() => setSemFoto(true)}
           />
