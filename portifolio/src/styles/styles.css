@@ -108,6 +108,25 @@ ul {
   font-family: var(--mono);
   font-size: 0.9rem;
 }
+.link-borda{
+  padding: 10px 20px;
+  border: 1px solid var(--ciano);
+  color: var(--ciano) !important;
+  border-radius: 4px;
+  transition: background 0.15s;
+}
+
+.link-borda2{
+  padding: 10px 20px;
+  border: 1px solid var(--ciano);
+  color: var(--ciano) !important;
+  border-radius: 4px;
+  transition: background 0.15s;
+}
+.link-borda:hover,
+.link-borda2:hover {
+  background: rgba(0, 242, 254, 0.1);
+}
 
 .botao {
   padding: 10px 20px;

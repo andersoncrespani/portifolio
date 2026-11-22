@@ -14,10 +14,10 @@ export default function Hero() {
           <a href="#projetos" className="botao">
             ver projetos
           </a>
-          <a href={perfil.github} target="_blank" rel="noreferrer">
+          <a href={perfil.github} className="link-borda" target="_blank" rel="noreferrer">
             github
           </a>
-          <a href={perfil.linkedin} target="_blank" rel="noreferrer">
+          <a href={perfil.linkedin} className="link-borda2" target="_blank" rel="noreferrer">
             linkedin
           </a>
         </div>
